@@ -2,7 +2,7 @@
 
 **EMBARK ON A HEROIC JOURNEY WITH THE VR SEA RESCUE ADVENTURE – A MASTERPIECE FROM XREV STUDIO**
 
-![VR Sea Rescue Adventure Banner](images/VR_Sea_Rescue_Banner.png)
+![VR Sea Rescue Adventure Banner](images/vrrescue.png)
 
 ## About VR Sea Rescue Adventure
 
