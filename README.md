@@ -39,11 +39,6 @@ Delve into the high-seas adventure with our latest VR game, where you assume the
 ![VR Sea Rescue Gameplay 1](images/VR_Sea_Rescue_Gameplay1.png)
 ![VR Sea Rescue Gameplay 2](images/VR_Sea_Rescue_Gameplay2.png)
 
-## Links
-
-- [Download on Playstore](link_to_google_play_store_page_of_game)
-- [Official Website](link_to_website)
-- [Game Trailer](link_to_game_trailer)
 
 ---
 
