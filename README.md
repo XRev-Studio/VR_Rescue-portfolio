@@ -36,8 +36,8 @@ Delve into the high-seas adventure with our latest VR game, where you assume the
 
 ## Gallery
 
-![VR Sea Rescue Gameplay 1](images/VR_Sea_Rescue_Gameplay1.png)
-![VR Sea Rescue Gameplay 2](images/VR_Sea_Rescue_Gameplay2.png)
+![VR Sea Rescue Gameplay 1](images/vrrescue2.png)
+![VR Sea Rescue Gameplay 2](images/vrrescue3.png)
 
 
 ---
